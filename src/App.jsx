@@ -15,7 +15,6 @@ function App() {
         <Features />
         <FeaturedServices />
         <Pricing />
-        {/* You can add a Testimonials component here if needed */}
       </main>
       <Footer />
     </div>
